@@ -45,7 +45,7 @@ int main()
   cout<<"Please enter the key: "<<endl;
   cin>>k;
   if(binarySearch(vec,k) == -1){
-    cout<<"Invalid Key"<<endl;
+    cout<<"Key is Invalid"<<endl;
   }
   else{
     cout<<"The key is at position: "<<binarySearch(vec,k)<<endl;
