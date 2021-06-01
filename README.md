@@ -10,11 +10,6 @@
 
 # My-Random-Learnings
 I am interested in these stuffs.
-### OR (|)
-100  
-101  
----  
-101  
 ### XOR (^)
 100  
 101  
