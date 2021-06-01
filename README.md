@@ -10,11 +10,6 @@
 
 # My-Random-Learnings
 I am interested in these stuffs.
-### AND (&)
-100  
-101  
----  
-100  
 ### OR (|)
 100  
 101  
