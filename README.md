@@ -31,6 +31,4 @@ Example: 20 / 16 = 20 >> 4
 ### Mod by 2k
 x & (2k-1)
 
-Example: 20 % 16 = 20 & 15
-### Is x power of 2?
-(x != 0) && (x & (x - 1)) == 0
+
