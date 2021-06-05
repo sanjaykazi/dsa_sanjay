@@ -9,10 +9,7 @@
 - x | ~(x - (1 << n)) = the lowest run of cleared bits (possibly length 0) in x, starting at bit n are the only clear bits.
 
 
-### XOR (^)
-100  
-101  
----  
+
 001  
 ### NOT (~)
 101 
