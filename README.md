@@ -17,6 +17,4 @@ Example: 5 * 8 = 5 << 3
 x >> k
 Example: 20 / 16 = 20 >> 4
 ### Mod by 2k
-x & (2k-1)
-
 
